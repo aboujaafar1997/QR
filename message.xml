@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<message>
+  <message1>
+    <sms>bonjour Mr1/Mm1,nous vous informons que votre fils/fille a dépassé 12heures d'absence sans justification,merci de nous contacter</sms>
+    <port>COM10</port>
+    <tf>True</tf>
+  </message1>
+</message>

@@ -1,0 +1,63 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\mini project.exe.config
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\mini project.exe
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\mini project.pdb
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini project.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.Form1.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.Properties.Resources.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini project.csproj.GenerateResource.Cache
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini project.exe
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini project.pdb
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.left_bare.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.principale.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\WindowsFormsApplication1.top_bare.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.profs.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.Etudiant.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.QR.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.ajouter_absance.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.historique_absance.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.aceuil.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.parametre.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.historique.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.fiche.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.statistique.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.adduser.resources
+C:\Users\toshiba\documents\visual studio 2015\Projects\mini project\mini project\obj\Debug\mini_project.file_d_attents.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\buckup\mini project v0.1\mini project\bin\Debug\mini project.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\buckup\mini project v0.1\mini project\obj\Debug\mini project.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\buckup\mini project v0.1\mini project\obj\Debug\mini project.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\mini project.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini project.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini project.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini project.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.aceuil.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.adduser.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.ajouter_absance.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.fiche.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.file_d_attents.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.historique.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.historique_absance.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.profs.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.QR.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.left_bare.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.principale.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.statistique.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\WindowsFormsApplication1.top_bare.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.Etudiant.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.parametre.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini project.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\mini project.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\mini project.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.add.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.filiere_module.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.filiere.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.module.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\mini project v0.1\mini project\obj\Debug\mini_project.emplois.resources
